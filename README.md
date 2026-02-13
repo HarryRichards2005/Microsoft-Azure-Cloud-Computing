@@ -1,3 +1,5 @@
+
+<p>"Paws & Whiskers" is a growing pet shop that aims to improve its business by analysing sales, customer information, and inventory data. Currently, the data is collected manually or stored in spreadsheets. Management is interested in transitioning to Microsoft Azure to streamline data storage, analysis, and reporting, enabling them to make data-driven decisions.</p>
 <p>Data Laws and Regulations:</p>
 <p>&ldquo;Paws and Whiskers&rdquo; need to ensure that they handle their customers data responsibly. This is because it ensures they maintain their reputation and their customers trust additionally to be legally compliant. The biggest example of this is GDPR which state how data should be collected, stored, and processed. It allows customers to be in control of their personal information, Paws and Whiskers will be collecting clients online account information, and customer names. GDPR has seven key principles that must be followed, these are</p>
 <ul>
